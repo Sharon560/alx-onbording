@@ -1,2 +1,2 @@
 My second task
-Task completed successfully 
+Task completed successfully
